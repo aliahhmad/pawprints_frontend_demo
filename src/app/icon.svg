@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">PawPrints</title>
+  <path d="M16 2h34a12 12 0 0 1 12 12v34a14 14 0 0 1-14 14H2V16A14 14 0 0 1 16 2Z" fill="#f76902"/>
+  <g fill="#fff">
+    <ellipse cx="16" cy="25" rx="4.4" ry="6.2" transform="rotate(-30 16 25)"/>
+    <ellipse cx="27" cy="16.5" rx="4.6" ry="6.3" transform="rotate(-10 27 16.5)"/>
+    <ellipse cx="40" cy="18" rx="4.5" ry="6.2" transform="rotate(16 40 18)"/>
+    <ellipse cx="49" cy="28" rx="4.2" ry="5.8" transform="rotate(32 49 28)"/>
+    <path d="M18 39c3-3 5-11 13-11 7 0 8 7 12 11 5 5 5 10 1 13-4 3-10 1-14 0l-9 5 2-9c-6-1-8-5-5-9Z"/>
+  </g>
+</svg>

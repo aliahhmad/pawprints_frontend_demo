@@ -1,0 +1,15 @@
+body { padding-bottom: 96px; }
+.design-switch {
+  position: fixed; left: 50%; bottom: max(16px, env(safe-area-inset-bottom)); transform: translateX(-50%);
+  pointer-events: auto; z-index: 10000; display: flex; align-items: center; gap: 5px; width: max-content; max-width: calc(100vw - 24px);
+  padding: 6px; border: 1px solid #d2d6dc; border-radius: 999px; background: #fff; color: #252b2a;
+  box-shadow: 0 5px 30px #0003; font: 600 13px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+.design-switch-label { padding: 0 10px; color: #646a72; font-size: 12px; }
+.design-switch button { border: 0; border-radius: 999px; min-height: 42px; padding: 9px 17px; background: transparent; color: #444; white-space: nowrap; }
+.design-switch button[aria-pressed=true] { color: #fff; background: #252b2a; }
+.design-switch button:focus-visible { outline: 3px solid #f76902; outline-offset: 2px; }
+body:has(dialog[open]) .site-design-switch { visibility: hidden; }
+.app-dialog { padding-bottom: 80px; }
+.notice-trigger { bottom: 100px; }
+@media(max-width:380px) { .design-switch-label {display:none} .design-switch button {padding-inline:15px} }

@@ -1,0 +1,51 @@
+.sidebar {
+  position: relative;
+  display: flex;
+  flex: 1 1 12rem;
+  align-items: stretch;
+  min-width: 0;
+  min-height: 3rem;
+}
+
+.sidebar-select {
+  width: 100%;
+  min-width: 0;
+  min-height: 3rem;
+  appearance: none;
+  padding: 0.625rem 2.625rem 0.625rem 0.875rem;
+  border: 1px solid #c8ccd0;
+  border-radius: 0;
+  color: var(--highlight);
+  background-color: white;
+  font: inherit;
+  font-size: 0.875rem;
+  text-align: left;
+  cursor: pointer;
+}
+
+.sidebar-select:hover {
+  border-color: var(--main_color);
+}
+
+.sidebar-select:focus-visible {
+  outline: 2px solid var(--highlight);
+  outline-offset: 3px;
+}
+
+.sidebar > svg {
+  position: absolute;
+  top: 50%;
+  right: 0.875rem;
+  transform: translateY(-50%);
+  color: var(--highlight);
+  pointer-events: none;
+}
+
+.sidebar-select:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}
+
+.sidebar-select:disabled + svg {
+  opacity: 0.6;
+}

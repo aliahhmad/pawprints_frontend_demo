@@ -1,0 +1,1555 @@
+{
+  "version": 1,
+  "accounts": [
+    {
+      "username": "demo_student",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "roles": [
+        {
+          "id": 1,
+          "name": "student"
+        }
+      ],
+      "committees": []
+    },
+    {
+      "username": "demo_committee",
+      "first_name": "Sam",
+      "last_name": "Rivera",
+      "roles": [
+        {
+          "id": 1,
+          "name": "student"
+        },
+        {
+          "id": 2,
+          "name": "committee_member"
+        }
+      ],
+      "committees": [
+        {
+          "id": 1,
+          "name": "Academics and Co-ops"
+        },
+        {
+          "id": 3,
+          "name": "Facilities, Parking, Transportation and Sustainability"
+        }
+      ]
+    }
+  ],
+  "petitions": [
+    {
+      "id": 1,
+      "title": "Keep the library open later during finals",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 245,
+      "created_at": "2026-10-30T12:00:00Z",
+      "status": 1,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": {
+        "id": 1,
+        "name": "Academics and Co-ops"
+      },
+      "description": "<p>Extend quiet study hours during the two busiest weeks of the semester.</p><p>A late-night study pilot would give students a reliable place to prepare for finals, with clear quiet zones and posted hours.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 2,
+      "title": "Add covered shelters at the campus shuttle stops",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 146,
+      "created_at": "2026-10-29T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 5,
+          "name": "Transportation",
+          "description": "Shuttles, cycling, parking, and walking.",
+          "color": "#3e6ea1"
+        },
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Make waiting for the shuttle more comfortable in rain and snow.</p><p>Covered shelters, readable route maps, and seating would improve daily trips across campus.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Expand plant-based options at every dining location",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 318,
+      "created_at": "2026-10-28T12:00:00Z",
+      "status": 2,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": true,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 6,
+          "name": "Dining",
+          "description": "Food options, hours, and dining spaces.",
+          "color": "#a84b57"
+        },
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        }
+      ],
+      "committee": {
+        "id": 4,
+        "name": "Housing and Dining"
+      },
+      "description": "<p>Offer a complete plant-based meal at each dining location.</p><p>A consistent daily option would help students with dietary needs plan meals without crossing campus.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 4,
+      "title": "Publish accessible routes around construction areas",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 212,
+      "created_at": "2026-10-27T12:00:00Z",
+      "status": 1,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        },
+        {
+          "id": 5,
+          "name": "Transportation",
+          "description": "Shuttles, cycling, parking, and walking.",
+          "color": "#3e6ea1"
+        }
+      ],
+      "committee": {
+        "id": 3,
+        "name": "Facilities, Parking, Transportation and Sustainability"
+      },
+      "description": "<p>Post clear, accessible detours before construction begins.</p><p>A single campus map with step-free routes, temporary closures, and clear signs would make getting around easier.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 5,
+      "title": "Create more quiet spaces for decompression",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 89,
+      "created_at": "2026-10-26T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 7,
+          "name": "Well-Being",
+          "description": "Spaces and support for student well-being.",
+          "color": "#8b5e83"
+        },
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Set aside small, calm rooms for a break between classes.</p><p>A few welcoming spaces with soft lighting and clear quiet guidelines could help students recharge.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 6,
+      "title": "Improve evening lighting along residential walkways",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 174,
+      "created_at": "2026-10-25T12:00:00Z",
+      "status": 3,
+      "expires": "2026-10-01T12:00:00Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        },
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        }
+      ],
+      "committee": {
+        "id": 3,
+        "name": "Facilities, Parking, Transportation and Sustainability"
+      },
+      "description": "<p>Review lighting on the paths students use after evening classes.</p><p>Students identified several stretches where additional lighting would improve visibility.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 7,
+      "title": "Add water bottle filling stations near lecture halls",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 124,
+      "created_at": "2026-10-24T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Make drinking water easier to find between classes.</p><p>More refill stations and clearer signs would reduce disposable bottles and long trips during short breaks.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 8,
+      "title": "Offer more weekend shuttle trips to grocery stores",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 237,
+      "created_at": "2026-10-23T12:00:00Z",
+      "status": 1,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 5,
+          "name": "Transportation",
+          "description": "Shuttles, cycling, parking, and walking.",
+          "color": "#3e6ea1"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": {
+        "id": 3,
+        "name": "Facilities, Parking, Transportation and Sustainability"
+      },
+      "description": "<p>Pilot additional weekend grocery trips for students without cars.</p><p>A published weekend schedule with more frequent return trips would make essential errands easier.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 9,
+      "title": "Bring back the campus clothing swap",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 63,
+      "created_at": "2026-10-22T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Host a free clothing swap each semester.</p><p>A student-run swap can keep useful clothing out of the waste stream and help students prepare for the weather.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 10,
+      "title": "Install adjustable desks in shared study spaces",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 97,
+      "created_at": "2026-10-21T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        },
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Include height-adjustable desks in common study areas.</p><p>A mix of desk heights and seating choices would make independent and group study more comfortable.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 11,
+      "title": "Add clearer allergen labels to grab-and-go meals",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 284,
+      "created_at": "2026-10-20T12:00:00Z",
+      "status": 2,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": true,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 6,
+          "name": "Dining",
+          "description": "Food options, hours, and dining spaces.",
+          "color": "#a84b57"
+        },
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        }
+      ],
+      "committee": {
+        "id": 4,
+        "name": "Housing and Dining"
+      },
+      "description": "<p>Make allergen information easy to read before buying a meal.</p><p>Consistent labels and ingredient links can help students choose food with confidence.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 12,
+      "title": "Start a student bike repair station program",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 112,
+      "created_at": "2026-10-19T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 5,
+          "name": "Transportation",
+          "description": "Shuttles, cycling, parking, and walking.",
+          "color": "#3e6ea1"
+        },
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Install basic bike repair tools near major bike racks.</p><p>A public pump and a small set of tethered tools would support students who cycle to class.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 13,
+      "title": "Create a campus calendar for free student events",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 186,
+      "created_at": "2026-10-18T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Put free campus events in one easy-to-browse calendar.</p><p>A shared calendar would help students find workshops, performances, and club events without searching multiple sites.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 14,
+      "title": "Increase co-op interview practice sessions",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 219,
+      "created_at": "2026-10-17T12:00:00Z",
+      "status": 1,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": {
+        "id": 1,
+        "name": "Academics and Co-ops"
+      },
+      "description": "<p>Offer more mock interviews before the busiest recruiting weeks.</p><p>Small-group workshops and individual practice sessions can help students prepare for their first co-op search.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 15,
+      "title": "Add more charging outlets in the student center",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 73,
+      "created_at": "2026-10-16T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        },
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Add charging points near the seating students already use.</p><p>Reliable outlets and a few shared charging stations would make common spaces more useful between classes.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 16,
+      "title": "Make campus recycling signs consistent",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 128,
+      "created_at": "2026-10-15T12:00:00Z",
+      "status": 3,
+      "expires": "2026-10-01T12:00:00Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        }
+      ],
+      "committee": {
+        "id": 3,
+        "name": "Facilities, Parking, Transportation and Sustainability"
+      },
+      "description": "<p>Use the same clear recycling labels across campus.</p><p>Photo examples beside bins can reduce confusion and make recycling easier.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 17,
+      "title": "Extend the equipment lending desk hours",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 105,
+      "created_at": "2026-10-14T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Keep shared equipment available later on project nights.</p><p>An evening pilot would help students who need to borrow cameras, microphones, and other project equipment.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 18,
+      "title": "Add a low-sensory hour at major campus events",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 151,
+      "created_at": "2026-10-13T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        },
+        {
+          "id": 7,
+          "name": "Well-Being",
+          "description": "Spaces and support for student well-being.",
+          "color": "#8b5e83"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Offer a quieter way to take part in campus traditions.</p><p>Clear schedules, reduced sound, and an accessible rest space can help more students enjoy large events.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 19,
+      "title": "Create outdoor study tables with shade",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 92,
+      "created_at": "2026-10-12T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        },
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Add shaded tables near the busiest academic paths.</p><p>Comfortable outdoor study areas would give students more choices when the weather is pleasant.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 20,
+      "title": "Share course material costs before registration",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 266,
+      "created_at": "2026-10-11T12:00:00Z",
+      "status": 1,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        }
+      ],
+      "committee": {
+        "id": 1,
+        "name": "Academics and Co-ops"
+      },
+      "description": "<p>Show expected textbook and software costs before enrollment.</p><p>Early estimates would help students budget and compare options for required course materials.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 21,
+      "title": "Add a late-night breakfast option",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 133,
+      "created_at": "2026-10-10T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 6,
+          "name": "Dining",
+          "description": "Food options, hours, and dining spaces.",
+          "color": "#a84b57"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Pilot one late-night breakfast menu on campus.</p><p>An affordable evening meal option would help students whose labs and shifts end after regular dinner hours.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 22,
+      "title": "Improve signs for gender-inclusive restrooms",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 178,
+      "created_at": "2026-10-09T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Make restroom locations easier to find on maps and signs.</p><p>Consistent wayfinding and a searchable directory would help students and campus visitors.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 23,
+      "title": "Add more lockers near studio classrooms",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 58,
+      "created_at": "2026-10-08T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Give students a place to store project supplies between classes.</p><p>A small locker pilot would reduce the need to carry large or fragile materials around campus.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 24,
+      "title": "Expand peer-led study groups for first-year courses",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 301,
+      "created_at": "2026-10-07T12:00:00Z",
+      "status": 2,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": true,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 1,
+          "name": "Academics",
+          "description": "Classes, learning spaces, and academic support.",
+          "color": "#6b4f97"
+        },
+        {
+          "id": 7,
+          "name": "Well-Being",
+          "description": "Spaces and support for student well-being.",
+          "color": "#8b5e83"
+        }
+      ],
+      "committee": {
+        "id": 1,
+        "name": "Academics and Co-ops"
+      },
+      "description": "<p>Create regular, welcoming study sessions for foundational classes.</p><p>Peer-led groups can help new students build confidence and find a supportive learning community.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 25,
+      "title": "Improve snow clearing near bike racks",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 143,
+      "created_at": "2026-10-06T12:00:00Z",
+      "status": 3,
+      "expires": "2026-10-01T12:00:00Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 5,
+          "name": "Transportation",
+          "description": "Shuttles, cycling, parking, and walking.",
+          "color": "#3e6ea1"
+        },
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        }
+      ],
+      "committee": {
+        "id": 3,
+        "name": "Facilities, Parking, Transportation and Sustainability"
+      },
+      "description": "<p>Keep routes to bike parking clear during winter.</p><p>Including bike racks in snow clearing plans would support year-round riders.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 26,
+      "title": "Add reusable takeout container return points",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 83,
+      "created_at": "2026-10-05T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 6,
+          "name": "Dining",
+          "description": "Food options, hours, and dining spaces.",
+          "color": "#a84b57"
+        },
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Make reusable container returns convenient across campus.</p><p>More clearly marked return points would help students participate in a reusable takeout program.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 27,
+      "title": "Offer captioned recordings of student forums",
+      "author": {
+        "username": "taylor_example",
+        "first_name": "Taylor",
+        "last_name": "Chen",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 119,
+      "created_at": "2026-10-04T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 3,
+          "name": "Accessibility",
+          "description": "A campus everyone can navigate and enjoy.",
+          "color": "#287b88"
+        },
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Make student forums easier to revisit and share.</p><p>Captioned recordings and short summaries would let students follow discussions around class and work schedules.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 28,
+      "title": "Create a community garden volunteer calendar",
+      "author": {
+        "username": "jordan_example",
+        "first_name": "Jordan",
+        "last_name": "Lee",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 46,
+      "created_at": "2026-10-03T12:00:00Z",
+      "status": 0,
+      "expires": "2099-12-31T23:59:59Z",
+      "has_response": false,
+      "is_draft": false,
+      "tags": [
+        {
+          "id": 4,
+          "name": "Sustainability",
+          "description": "Practical ideas for a greener campus.",
+          "color": "#4c7a45"
+        },
+        {
+          "id": 7,
+          "name": "Well-Being",
+          "description": "Spaces and support for student well-being.",
+          "color": "#8b5e83"
+        }
+      ],
+      "committee": null,
+      "description": "<p>Publish easy ways to help at the campus garden.</p><p>A simple schedule with beginner-friendly tasks would welcome students who have never gardened before.</p><p>This is a fictional example petition for the Pawprints frontend demo.</p>"
+    },
+    {
+      "id": 101,
+      "title": "Add a campus lost-and-found directory",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 0,
+      "created_at": "2026-10-30T10:00:00Z",
+      "status": 0,
+      "expires": null,
+      "has_response": false,
+      "is_draft": true,
+      "tags": [
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>This is a saved example draft. Edit this description, choose tags, and publish it when you are ready.</p>"
+    },
+    {
+      "id": 102,
+      "title": "Create a student skill-sharing afternoon",
+      "author": {
+        "username": "demo_student",
+        "first_name": "Alex",
+        "last_name": "Morgan",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          }
+        ],
+        "committees": []
+      },
+      "total_signatures": 0,
+      "created_at": "2026-10-30T10:00:00Z",
+      "status": 0,
+      "expires": null,
+      "has_response": false,
+      "is_draft": true,
+      "tags": [
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>This is a saved example draft. Edit this description, choose tags, and publish it when you are ready.</p>"
+    },
+    {
+      "id": 103,
+      "title": "Improve the lab equipment booking guide",
+      "author": {
+        "username": "demo_committee",
+        "first_name": "Sam",
+        "last_name": "Rivera",
+        "roles": [
+          {
+            "id": 1,
+            "name": "student"
+          },
+          {
+            "id": 2,
+            "name": "committee_member"
+          }
+        ],
+        "committees": [
+          {
+            "id": 1,
+            "name": "Academics and Co-ops"
+          },
+          {
+            "id": 3,
+            "name": "Facilities, Parking, Transportation and Sustainability"
+          }
+        ]
+      },
+      "total_signatures": 0,
+      "created_at": "2026-10-30T10:00:00Z",
+      "status": 0,
+      "expires": null,
+      "has_response": false,
+      "is_draft": true,
+      "tags": [
+        {
+          "id": 2,
+          "name": "Campus Life",
+          "description": "Student events and everyday campus experiences.",
+          "color": "#c66525"
+        }
+      ],
+      "committee": null,
+      "description": "<p>This is a saved example draft. Edit this description, choose tags, and publish it when you are ready.</p>"
+    }
+  ],
+  "timelines": {
+    "1": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 10,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      },
+      {
+        "is_response": false,
+        "update": {
+          "id": 12,
+          "message": "<p>We are gathering feedback on the proposed late-night study hours. Next, we will meet with the library team.</p>",
+          "created_at": "2026-10-30T15:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": null,
+          "is_draft": true,
+          "is_approved": false
+        },
+        "review": [
+          {
+            "id": 1,
+            "update_id": 12,
+            "message": "<p>Please add the proposed study room locations and how students can share feedback before resubmitting.</p>",
+            "reviewer_id": "Example review",
+            "is_approved": false,
+            "created_at": "2026-10-30T16:00:00Z"
+          }
+        ]
+      }
+    ],
+    "2": [],
+    "3": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 30,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      },
+      {
+        "is_response": true,
+        "update": {
+          "id": 31,
+          "message": "<p>Thank you for sharing this idea. Our campus partners have agreed to a pilot and will share what they learn before considering a wider rollout.</p>",
+          "created_at": "2026-10-30T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "4": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 40,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "5": [],
+    "6": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 60,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "7": [],
+    "8": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 80,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "9": [],
+    "10": [],
+    "11": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 110,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      },
+      {
+        "is_response": true,
+        "update": {
+          "id": 111,
+          "message": "<p>Thank you for sharing this idea. Our campus partners have agreed to a pilot and will share what they learn before considering a wider rollout.</p>",
+          "created_at": "2026-10-30T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "12": [],
+    "13": [],
+    "14": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 140,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "15": [],
+    "16": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 160,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "17": [],
+    "18": [],
+    "19": [],
+    "20": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 200,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "21": [],
+    "22": [],
+    "23": [],
+    "24": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 240,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      },
+      {
+        "is_response": true,
+        "update": {
+          "id": 241,
+          "message": "<p>Thank you for sharing this idea. Our campus partners have agreed to a pilot and will share what they learn before considering a wider rollout.</p>",
+          "created_at": "2026-10-30T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "25": [
+      {
+        "is_response": false,
+        "update": {
+          "id": 250,
+          "message": "<p>We have collected student feedback and shared the main themes with our campus partners. The next step is to explore a small pilot.</p>",
+          "created_at": "2026-10-29T14:00:00Z",
+          "author_id": "demo_committee",
+          "approved_by": "Example review",
+          "is_draft": false,
+          "is_approved": true
+        }
+      }
+    ],
+    "26": [],
+    "27": [],
+    "28": [],
+    "101": [],
+    "102": [],
+    "103": []
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "Academics",
+      "description": "Classes, learning spaces, and academic support.",
+      "color": "#6b4f97"
+    },
+    {
+      "id": 2,
+      "name": "Campus Life",
+      "description": "Student events and everyday campus experiences.",
+      "color": "#c66525"
+    },
+    {
+      "id": 3,
+      "name": "Accessibility",
+      "description": "A campus everyone can navigate and enjoy.",
+      "color": "#287b88"
+    },
+    {
+      "id": 4,
+      "name": "Sustainability",
+      "description": "Practical ideas for a greener campus.",
+      "color": "#4c7a45"
+    },
+    {
+      "id": 5,
+      "name": "Transportation",
+      "description": "Shuttles, cycling, parking, and walking.",
+      "color": "#3e6ea1"
+    },
+    {
+      "id": 6,
+      "name": "Dining",
+      "description": "Food options, hours, and dining spaces.",
+      "color": "#a84b57"
+    },
+    {
+      "id": 7,
+      "name": "Well-Being",
+      "description": "Spaces and support for student well-being.",
+      "color": "#8b5e83"
+    }
+  ],
+  "committees": [
+    {
+      "id": 1,
+      "name": "Academics and Co-ops"
+    },
+    {
+      "id": 2,
+      "name": "Accessibility"
+    },
+    {
+      "id": 3,
+      "name": "Facilities, Parking, Transportation and Sustainability"
+    },
+    {
+      "id": 4,
+      "name": "Housing and Dining"
+    },
+    {
+      "id": 5,
+      "name": "Student Affairs"
+    },
+    {
+      "id": 6,
+      "name": "Well-Being"
+    }
+  ],
+  "signatures": {
+    "demo_student": [
+      13,
+      18
+    ],
+    "demo_committee": [
+      2
+    ]
+  },
+  "notice": {
+    "alert_enabled": true,
+    "alert_message": "Welcome to the Pawprints demo. All petitions and accounts are fictional examples. Try browsing, signing, or creating a petition; changes stay in this browser."
+  }
+}

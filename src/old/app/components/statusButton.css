@@ -1,0 +1,58 @@
+.statusButton {
+  display: flex;
+  flex: 1 1 31rem;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  min-width: 0;
+}
+
+.statusButton h2 {
+  flex: 0 0 auto;
+  margin: 0;
+  color: var(--highlight);
+  font-size: 0.875rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.statusButton-options {
+  display: flex;
+  flex: 1 1 24rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.statusButton button {
+  flex: 1 1 5.5rem;
+  min-height: 2.75rem;
+  height: auto;
+  padding: 0.625rem 0.875rem;
+  border: 1px solid #c8ccd0;
+  border-radius: 0;
+  color: var(--highlight);
+  background-color: var(--light_background);
+  box-shadow: none;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.statusButton button:hover {
+  border-color: var(--main_color);
+  color: var(--dark_text);
+  background-color: rgb(255 119 0 / 8%);
+}
+
+.statusButton button[aria-pressed="true"] {
+  border-color: var(--main_color);
+  color: var(--dark_text);
+  background-color: var(--main_color);
+  font-weight: 600;
+}
+
+.statusButton button:focus-visible {
+  outline: 2px solid var(--highlight);
+  outline-offset: 3px;
+}

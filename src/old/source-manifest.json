@@ -1,0 +1,1024 @@
+[
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/PetitionList.tsx",
+    "copy": "src/old/app/components/PetitionList.tsx",
+    "sourceSha256": "22fd683d3f8a38b9e3ed6c7ff981594fdb0ec875474e1915d618fe08c2468b4a",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "855fc9292080c7bc1220ecde3fb9a3a12394a4b5a112c6b0e9eebcc29464b198"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/NavBar.tsx",
+    "copy": "src/old/app/components/NavBar.tsx",
+    "sourceSha256": "fe0bdcf277ecebe0440b7c1670a61f9770bd33698497df1eac2bf3bc4045ed76",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "a963ee2fdda73b28d1c6fcb8733280d203c4b16f0d00838aa5c7337c52c72a0b"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Banner.tsx",
+    "copy": "src/old/app/components/Banner.tsx",
+    "sourceSha256": "678ef410982fde6a5704b1ce28aff15f47dfd59bc36211c2210f5fb71aaf0c5a",
+    "changes": "byte-for-byte",
+    "copySha256": "678ef410982fde6a5704b1ce28aff15f47dfd59bc36211c2210f5fb71aaf0c5a"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/signbutton.css",
+    "copy": "src/old/app/components/signbutton.css",
+    "sourceSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "changes": "byte-for-byte",
+    "copySha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/tag.css",
+    "copy": "src/old/app/components/tag.css",
+    "sourceSha256": "31380b834213c75ef1cf2f206dd27f5107565078535fffede82ebd405e18af91",
+    "changes": "byte-for-byte",
+    "copySha256": "31380b834213c75ef1cf2f206dd27f5107565078535fffede82ebd405e18af91"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition.tsx",
+    "copy": "src/old/app/components/Petition.tsx",
+    "sourceSha256": "15d457571cd2655ba352a6f2524f377f2157852904d779f8e06e7fd648d9b9db",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "2e4d219c7ebaa0d6435a1ed411ec55ad867ccfd12bb622641dcefca367d6e82e"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/clearfilterbutton.css",
+    "copy": "src/old/app/components/clearfilterbutton.css",
+    "sourceSha256": "195b6a825a9af9a85c8113fa411153a674c1d88ea7fe04667e0cd9d8230bf928",
+    "changes": "byte-for-byte",
+    "copySha256": "195b6a825a9af9a85c8113fa411153a674c1d88ea7fe04667e0cd9d8230bf928"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/ResponseDetail.tsx",
+    "copy": "src/old/app/components/ResponseDetail.tsx",
+    "sourceSha256": "20348794f67b7f3098decac0703f28f0c8ed4c4e3e1367c6d19a0b85540678ef",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "d2729875d0e23832581bb57d09556743b27cdc7ba273ceace4b7c56edf0fc7c7"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/petitiondetail.css",
+    "copy": "src/old/app/components/petitiondetail.css",
+    "sourceSha256": "9d9716dfb94c22bfd5f1518bfb2ddf9b2e7d36b371233ded3a0dc5fdd1947c4c",
+    "changes": "byte-for-byte",
+    "copySha256": "9d9716dfb94c22bfd5f1518bfb2ddf9b2e7d36b371233ded3a0dc5fdd1947c4c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/PetitionContainer.tsx",
+    "copy": "src/old/app/components/PetitionContainer.tsx",
+    "sourceSha256": "7f0daee0a3bd7071858937e1c56354815033cabb63bb809470ee79cd58688d89",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "77180fe378403efb32fcd95f55dcdf74c2d4451f460ba0ad80e84c69858f8b13"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/statusButton.css",
+    "copy": "src/old/app/components/statusButton.css",
+    "sourceSha256": "2640399cc9457e582e3627c5bec9c36625b7dd3f9e81d355093627ca9c431f1c",
+    "changes": "byte-for-byte",
+    "copySha256": "2640399cc9457e582e3627c5bec9c36625b7dd3f9e81d355093627ca9c431f1c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/search.css",
+    "copy": "src/old/app/components/search.css",
+    "sourceSha256": "d1ed54d014c58393b223c3da9ab528210c9dfe92ad0dd9d53fd3c48953078384",
+    "changes": "byte-for-byte",
+    "copySha256": "d1ed54d014c58393b223c3da9ab528210c9dfe92ad0dd9d53fd3c48953078384"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/FloatingActionsBar.tsx",
+    "copy": "src/old/app/components/FloatingActionsBar.tsx",
+    "sourceSha256": "d5fc5b4bbcb0633796d7026e29e85ce98e8a7ce20428139e2d5faca694fd9b18",
+    "changes": "byte-for-byte",
+    "copySha256": "d5fc5b4bbcb0633796d7026e29e85ce98e8a7ce20428139e2d5faca694fd9b18"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/clearFilterButton.tsx",
+    "copy": "src/old/app/components/clearFilterButton.tsx",
+    "sourceSha256": "6b0ec20a57ae9161a481a857689f2e6c179825f9e9f04ee760b899feca9d7cff",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "651ad0847b5f5e6624c89ef1d9c982dce85931e40de457338c1b70faa715b286"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/loader.css",
+    "copy": "src/old/app/components/loader.css",
+    "sourceSha256": "b9b1380e0e6effa583a5f5503e66cccb91cc178fed1dfae1ef971083f3efa429",
+    "changes": "byte-for-byte",
+    "copySha256": "b9b1380e0e6effa583a5f5503e66cccb91cc178fed1dfae1ef971083f3efa429"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/PetitionDetail.tsx",
+    "copy": "src/old/app/components/PetitionDetail.tsx",
+    "sourceSha256": "ad2365e0257a10fb92c97f45ba545ee87ad2ffd71b2e1b593bbbf2527883468e",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "5e0557629bb5fd4b4a70b4855aba92b1a5e75c6d6639c96ee8e563f6d1f4e97b"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/petitioncontainer.css",
+    "copy": "src/old/app/components/petitioncontainer.css",
+    "sourceSha256": "3628133b10648f295c911c5c31fb2c60362d79de6b8359c4c25e2a21210b8e2f",
+    "changes": "byte-for-byte",
+    "copySha256": "3628133b10648f295c911c5c31fb2c60362d79de6b8359c4c25e2a21210b8e2f"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/BannerCreate.tsx",
+    "copy": "src/old/app/components/BannerCreate.tsx",
+    "sourceSha256": "a0c87620407c78862b492a2fcb7808d254685314231d80f883f5034cdbf7b86e",
+    "changes": "byte-for-byte",
+    "copySha256": "a0c87620407c78862b492a2fcb7808d254685314231d80f883f5034cdbf7b86e"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Search.tsx",
+    "copy": "src/old/app/components/Search.tsx",
+    "sourceSha256": "e142bc7b09d528391403fbe4508c0d310b51cc33800a4e3eb44d4739f355674f",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "ace51b84c4d8b75d813f1cd37b9916b3ef9db97f13a2b0c80fa12d7a7b23aa97"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/FloatingActionsBar.css",
+    "copy": "src/old/app/components/FloatingActionsBar.css",
+    "sourceSha256": "50554e0f40e5f9ed3ddf79575666b8b3d4ca8a25889d55ccad0ae73300aabc3c",
+    "changes": "byte-for-byte",
+    "copySha256": "50554e0f40e5f9ed3ddf79575666b8b3d4ca8a25889d55ccad0ae73300aabc3c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/navbar.css",
+    "copy": "src/old/app/components/navbar.css",
+    "sourceSha256": "a5010353b5322fcc63845a51d8ad92bc29d60884f05a6ae5f925abbabc1f8258",
+    "changes": "byte-for-byte",
+    "copySha256": "a5010353b5322fcc63845a51d8ad92bc29d60884f05a6ae5f925abbabc1f8258"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/ConfirmButton.tsx",
+    "copy": "src/old/app/components/ConfirmButton.tsx",
+    "sourceSha256": "7343370d8b97446ab489e615f66c16bd9d6e671b18b877f863bd3f8a5582463b",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "98f33704e9baf7837035b4a20e771d4fe17f594bc78401ba9789e74e2cd32da5"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/petition.css",
+    "copy": "src/old/app/components/petition.css",
+    "sourceSha256": "195b73ea82261f54330c555cef37fe8468117c5c7e62e0f7afdf3e45eee73b80",
+    "changes": "byte-for-byte",
+    "copySha256": "195b73ea82261f54330c555cef37fe8468117c5c7e62e0f7afdf3e45eee73b80"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/banner.css",
+    "copy": "src/old/app/components/banner.css",
+    "sourceSha256": "89642bc2b25cd911031776a4bf8a6b0c02858c1df89f1fe370d896e316c0793c",
+    "changes": "byte-for-byte",
+    "copySha256": "89642bc2b25cd911031776a4bf8a6b0c02858c1df89f1fe370d896e316c0793c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/SignButton.tsx",
+    "copy": "src/old/app/components/SignButton.tsx",
+    "sourceSha256": "c5459c21d5e4b8ad60be6992d62fa09edea7fdfdafb1e76aaaee38ebc1747b51",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "d6edda469af40ae3a85c7787dcdae9f7c0df807abd03a7ff62cc2dab2bcd9171"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Tag.tsx",
+    "copy": "src/old/app/components/Tag.tsx",
+    "sourceSha256": "c5112caa3166002351d3d07e183e7c3821988985d45aaeb26474f74847843633",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "c736bae77ae1791a8ddfc8d0a0f5b74846bdc7e89f51fcc968c5034312f12343"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/statusButtons.tsx",
+    "copy": "src/old/app/components/statusButtons.tsx",
+    "sourceSha256": "396c3b374ae89cc490d5ae51b9220d891cf668f21c1e6463c80a39eb60d08437",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "1bd38ece7dd670b3ba5964915ba66df421a475548e68595b66deaf6ffb141457"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Footer.tsx",
+    "copy": "src/old/app/components/Footer.tsx",
+    "sourceSha256": "2f1bde5adb3f8cb6a91bd06d7ba158802108788fc929b1e9b0778fb2017d68a4",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "e11c12300a425dce7d71bdeef66e4d9f85d9e3beca08fccf0d89230d75e8eb75"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/PetitionTag.tsx",
+    "copy": "src/old/app/components/PetitionTag.tsx",
+    "sourceSha256": "693a030ec1ed5a7172f854eb9db602cc3e2a3896d64d1446ec693bc9bbde0a18",
+    "changes": "byte-for-byte",
+    "copySha256": "693a030ec1ed5a7172f854eb9db602cc3e2a3896d64d1446ec693bc9bbde0a18"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/OwnedPetitionsSection.css",
+    "copy": "src/old/app/components/OwnedPetitionsSection.css",
+    "sourceSha256": "bddbba39b55554527c0bc489e5d948a2e392542d8a2a8d8def26684a2da40302",
+    "changes": "byte-for-byte",
+    "copySha256": "bddbba39b55554527c0bc489e5d948a2e392542d8a2a8d8def26684a2da40302"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/SiteAlertModal.tsx",
+    "copy": "src/old/app/components/SiteAlertModal.tsx",
+    "sourceSha256": "394a80a3e4c618f414209c54f34cd1155578a9b69de0de479a358c9778bf5772",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "4ecc78c6d3bff3c549de42db171967079fdd30940c46711dfd34a5dc2912ccd3"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/profile.tsx",
+    "copy": "src/old/app/components/profile.tsx",
+    "sourceSha256": "6c6d6cf7568bcdc7b86dc9d81d137d20232e261955db3a0dc6a73e07c4ecbb09",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "2b3bd23df025be55e69a158eb2c7b8bbd5bc34172b910afefef246ae4a315a41"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/LoginErrorAlert.tsx",
+    "copy": "src/old/app/components/LoginErrorAlert.tsx",
+    "sourceSha256": "661433160286fbdf9ea97de3571b8311e062a14f41e34f7ecdfdb4b00ac0780f",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "0d7974b1d894db0547697193c438a810aea24e494f0a0a54250b213845c4ce22"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/LoginButton.tsx",
+    "copy": "src/old/app/components/LoginButton.tsx",
+    "sourceSha256": "d1c0e3670dd442ca8830d0adae0494acbcf2fd4f46a5973daedf32e3b79c4639",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "5912c0b3367a0abd701d6615eea3b6a5f5c2b239ff80fb55e28bd5cbef8dfe6c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/CreatePetitionButton.css",
+    "copy": "src/old/app/components/CreatePetitionButton.css",
+    "sourceSha256": "e73eba00de64b2b3eaf02d4851dc8fe1623eb7c2b6f8483e5ed6c1a46bbc3bc6",
+    "changes": "byte-for-byte",
+    "copySha256": "e73eba00de64b2b3eaf02d4851dc8fe1623eb7c2b6f8483e5ed6c1a46bbc3bc6"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/sidebar.css",
+    "copy": "src/old/app/components/sidebar.css",
+    "sourceSha256": "dd4f25ef6a564e5ce7edc2a9c245874c8b4052d02cedeb5101ee0d9fb8ea93d7",
+    "changes": "byte-for-byte",
+    "copySha256": "dd4f25ef6a564e5ce7edc2a9c245874c8b4052d02cedeb5101ee0d9fb8ea93d7"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/petitioncontrols.css",
+    "copy": "src/old/app/components/petitioncontrols.css",
+    "sourceSha256": "9260d51f60bc7f8e64b1bfe6ac521b04c4700f39ae53e1595be4847cf2b817df",
+    "changes": "byte-for-byte",
+    "copySha256": "9260d51f60bc7f8e64b1bfe6ac521b04c4700f39ae53e1595be4847cf2b817df"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/loadBuffer.ts",
+    "copy": "src/old/app/components/loadBuffer.ts",
+    "sourceSha256": "486d87952a393103b585d1e04317439e492f558e603d3b4322cbd36d2b096943",
+    "changes": "byte-for-byte",
+    "copySha256": "486d87952a393103b585d1e04317439e492f558e603d3b4322cbd36d2b096943"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/loading.tsx",
+    "copy": "src/old/app/components/loading.tsx",
+    "sourceSha256": "9868578cc9c8d0b1e6697107d14a051d1a2fdaf17b598257ffe4d6951bdb60b4",
+    "changes": "byte-for-byte",
+    "copySha256": "9868578cc9c8d0b1e6697107d14a051d1a2fdaf17b598257ffe4d6951bdb60b4"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Sidebar.tsx",
+    "copy": "src/old/app/components/Sidebar.tsx",
+    "sourceSha256": "b844dbee62351124cfe3b34e938a8972cd980f9928b1467f7996eaa46590698c",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "d361a065bf88e3ff122465d340359226bfd900e4524c26eae835de9808084579"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/SidebarItem.tsx",
+    "copy": "src/old/app/components/SidebarItem.tsx",
+    "sourceSha256": "b46fd9df204640c1b0c5baf8483323c2d3ac54bc97d10e88b1609b84553722d0",
+    "changes": "byte-for-byte",
+    "copySha256": "b46fd9df204640c1b0c5baf8483323c2d3ac54bc97d10e88b1609b84553722d0"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/BannerCommittees.tsx",
+    "copy": "src/old/app/components/BannerCommittees.tsx",
+    "sourceSha256": "5596fe4aa589311b14382f716efdde69803ad4a6c07889651721449d45fce4ec",
+    "changes": "byte-for-byte",
+    "copySha256": "5596fe4aa589311b14382f716efdde69803ad4a6c07889651721449d45fce4ec"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/CreatePetitionButton.tsx",
+    "copy": "src/old/app/components/CreatePetitionButton.tsx",
+    "sourceSha256": "004dcb7e1d736f4d1335ca03b520b5b34b24901940ccbcf57457eca0eeba5c64",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "5feb6f1f8b0963478b8a2715e7a4879b69bd587aaf3f2135980e9f4242f9365b"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/removeAmp.ts",
+    "copy": "src/old/app/components/removeAmp.ts",
+    "sourceSha256": "c80fd71094856aff514e58890e1416cb31844f35927564fe43d7569866c08ea3",
+    "changes": "byte-for-byte",
+    "copySha256": "c80fd71094856aff514e58890e1416cb31844f35927564fe43d7569866c08ea3"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/PetitionEmpty.tsx",
+    "copy": "src/old/app/components/PetitionEmpty.tsx",
+    "sourceSha256": "19923e4a43382185d6ba81de1aa1adfdcae7a399279710be76fb0ef7ed7bbda5",
+    "changes": "byte-for-byte",
+    "copySha256": "19923e4a43382185d6ba81de1aa1adfdcae7a399279710be76fb0ef7ed7bbda5"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/PetitionSort.tsx",
+    "copy": "src/old/app/components/PetitionSort.tsx",
+    "sourceSha256": "3c6266f3225a06fd63e5b8989b18895c1e2cc0178147fa658be76eeb76462ae0",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "38247958e69140183e401d6b3b934623c56d7f5c383ab8284bb446dc3dae3b44"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/PetitionControls.tsx",
+    "copy": "src/old/app/components/PetitionControls.tsx",
+    "sourceSha256": "7ac690d8ba9f213669f46a613807362f00c00c2a988bfaebcdfe6ced2c26a911",
+    "changes": "byte-for-byte",
+    "copySha256": "7ac690d8ba9f213669f46a613807362f00c00c2a988bfaebcdfe6ced2c26a911"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/BannerAbout.tsx",
+    "copy": "src/old/app/components/BannerAbout.tsx",
+    "sourceSha256": "5a3dcb7e50d09fdbece8c4ef91d1214e5819ab3359b6e2d4b2e5552126963438",
+    "changes": "byte-for-byte",
+    "copySha256": "5a3dcb7e50d09fdbece8c4ef91d1214e5819ab3359b6e2d4b2e5552126963438"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/footer.css",
+    "copy": "src/old/app/components/footer.css",
+    "sourceSha256": "676603192cca62568520a48e02b05c3b31e2d8dff1299cf0a368df074bff86e6",
+    "changes": "byte-for-byte",
+    "copySha256": "676603192cca62568520a48e02b05c3b31e2d8dff1299cf0a368df074bff86e6"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/SiteAlertModal.css",
+    "copy": "src/old/app/components/SiteAlertModal.css",
+    "sourceSha256": "c5c09963d1f7f2cc68c9d498ff03f93b7a1aa167bf66a9512561d1ee03dde01a",
+    "changes": "byte-for-byte",
+    "copySha256": "c5c09963d1f7f2cc68c9d498ff03f93b7a1aa167bf66a9512561d1ee03dde01a"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/profile.css",
+    "copy": "src/old/app/components/profile.css",
+    "sourceSha256": "1deb8680cf3b4a69ef01c57bb328ef0f2609c945e6c0a3e33e7838b1b37efdb7",
+    "changes": "byte-for-byte",
+    "copySha256": "1deb8680cf3b4a69ef01c57bb328ef0f2609c945e6c0a3e33e7838b1b37efdb7"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/loginbutton.css",
+    "copy": "src/old/app/components/loginbutton.css",
+    "sourceSha256": "8d60ea03d3602e4cd35816a218456a4840bd030bc42d6e0958b7ecc12efed12c",
+    "changes": "byte-for-byte",
+    "copySha256": "8d60ea03d3602e4cd35816a218456a4840bd030bc42d6e0958b7ecc12efed12c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/OwnedPetitionsSection.tsx",
+    "copy": "src/old/app/components/OwnedPetitionsSection.tsx",
+    "sourceSha256": "8c6ed7781c6c6dd2b7b2002c6ac215fac99c06182af9918139f9dc0c0a0b83be",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "a42bb5b3134cba07b9030845cf9ae59073b243b570ea75ebd8d0348e06f9c171"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/LexicalEditor.tsx",
+    "copy": "src/old/app/components/Petition/LexicalEditor.tsx",
+    "sourceSha256": "b089db8153114332010d70b3ec5a82a98c4d2b172757ddb9423778b9cb5989f7",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "5d24649250d593e5b374809826c83b6f02a8a8c981c292c7479c829c31ec4a85"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/EditorTheme.ts",
+    "copy": "src/old/app/components/Petition/EditorTheme.ts",
+    "sourceSha256": "2b3ce11c2b97a26022360df12a21714f29816de659ac9d790f78f6eb5bc7b6c4",
+    "changes": "byte-for-byte",
+    "copySha256": "2b3ce11c2b97a26022360df12a21714f29816de659ac9d790f78f6eb5bc7b6c4"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/editor.css",
+    "copy": "src/old/app/components/Petition/editor.css",
+    "sourceSha256": "6e537bccf53ab3569794a26942624304a2cba81481cb553bfe0922b558f2d043",
+    "changes": "byte-for-byte",
+    "copySha256": "6e537bccf53ab3569794a26942624304a2cba81481cb553bfe0922b558f2d043"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/matchers.ts",
+    "copy": "src/old/app/components/Petition/matchers.ts",
+    "sourceSha256": "4527fee58aba25939d9a16321a172bef554133b007ea8887efbb46140d13bb93",
+    "changes": "byte-for-byte",
+    "copySha256": "4527fee58aba25939d9a16321a172bef554133b007ea8887efbb46140d13bb93"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/Toolbar.tsx",
+    "copy": "src/old/app/components/Petition/Toolbar.tsx",
+    "sourceSha256": "71651e70116ae7d7dbf213c272f1f17b3363dedf70dd58a147381cc3ec369bd4",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "dbd61a02a557f141847a813f1421025c798908a05c380a2a5500c025674bb9e8"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/LinkDialog.tsx",
+    "copy": "src/old/app/components/Petition/LinkDialog.tsx",
+    "sourceSha256": "f587473b496f0311ae52602a0f8bf595d00052397b021ff976955f86e223de86",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "f7ad2106028007fcc217199641964bc786c6e0b86de4998bfc74b5ef7113dc84"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/LexicalViewer.tsx",
+    "copy": "src/old/app/components/Petition/LexicalViewer.tsx",
+    "sourceSha256": "b1558c1897aebdf2941501fa21353fac242ed2ad7ec74bcf274fcacbb19b184f",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "82728392dda1b7ff0bba0909b047d291b4e2d2118be84ba69bbe003429061a0d"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/components/Petition/ImageNode.tsx",
+    "copy": "src/old/app/components/Petition/ImageNode.tsx",
+    "sourceSha256": "a1c0487b640330f481a60c02e2334738432432c789e002a641f727a51edc99dd",
+    "changes": "byte-for-byte",
+    "copySha256": "a1c0487b640330f481a60c02e2334738432432c789e002a641f727a51edc99dd"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/list-ul.svg",
+    "copy": "src/old/app/assets/list-ul.svg",
+    "sourceSha256": "d6a7f4bab00e9f8b3bb81b8a1c8284ad92cb7f019502fb3be0c953bea59dab58",
+    "changes": "byte-for-byte",
+    "copySha256": "d6a7f4bab00e9f8b3bb81b8a1c8284ad92cb7f019502fb3be0c953bea59dab58"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/type-h2.svg",
+    "copy": "src/old/app/assets/type-h2.svg",
+    "sourceSha256": "bb6b6d69ec36e4d37179020e4edabda038ee462ff32c59cafc80083c5a40a727",
+    "changes": "byte-for-byte",
+    "copySha256": "bb6b6d69ec36e4d37179020e4edabda038ee462ff32c59cafc80083c5a40a727"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/type-h3.svg",
+    "copy": "src/old/app/assets/type-h3.svg",
+    "sourceSha256": "27eb870ef6f0622ebc3a179097fbcb02710a352d99eea9b3e62a9667bbf248b5",
+    "changes": "byte-for-byte",
+    "copySha256": "27eb870ef6f0622ebc3a179097fbcb02710a352d99eea9b3e62a9667bbf248b5"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/type-italic.svg",
+    "copy": "src/old/app/assets/type-italic.svg",
+    "sourceSha256": "29722685928ea226f897ebb7784132e810e976ffb61e21f625d875467f853153",
+    "changes": "byte-for-byte",
+    "copySha256": "29722685928ea226f897ebb7784132e810e976ffb61e21f625d875467f853153"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/type-h1.svg",
+    "copy": "src/old/app/assets/type-h1.svg",
+    "sourceSha256": "83dd5e3b3a624a28cf37c0c33be704c559d755b03674ca4eb2e6f5b8a3dab1d0",
+    "changes": "byte-for-byte",
+    "copySha256": "83dd5e3b3a624a28cf37c0c33be704c559d755b03674ca4eb2e6f5b8a3dab1d0"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/type-bold.svg",
+    "copy": "src/old/app/assets/type-bold.svg",
+    "sourceSha256": "8e7adb4a29d9fd60445e2e9d96461ddc1212ef14bfd76f41ffb951fa9968eade",
+    "changes": "byte-for-byte",
+    "copySha256": "8e7adb4a29d9fd60445e2e9d96461ddc1212ef14bfd76f41ffb951fa9968eade"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/icon-write.png",
+    "copy": "src/old/app/assets/icon-write.png",
+    "sourceSha256": "00ddfb39ad8fb3fcdc257bcaf7c754c99875f475e35f17e86045b046ba807037",
+    "changes": "byte-for-byte",
+    "copySha256": "00ddfb39ad8fb3fcdc257bcaf7c754c99875f475e35f17e86045b046ba807037"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogoorange-02.svg",
+    "copy": "src/old/app/assets/pawprintslogoorange-02.svg",
+    "sourceSha256": "d0e4030dedde9a5b0322e7e963cb73b86a84c6c4bd3de57911f337856602103c",
+    "changes": "byte-for-byte",
+    "copySha256": "d0e4030dedde9a5b0322e7e963cb73b86a84c6c4bd3de57911f337856602103c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/text-center.svg",
+    "copy": "src/old/app/assets/text-center.svg",
+    "sourceSha256": "20cf7d44b84eea9c4efb37c953d1539175f76733ac7c361f1c1cb940ef7881b9",
+    "changes": "byte-for-byte",
+    "copySha256": "20cf7d44b84eea9c4efb37c953d1539175f76733ac7c361f1c1cb940ef7881b9"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogoorange-03.svg",
+    "copy": "src/old/app/assets/pawprintslogoorange-03.svg",
+    "sourceSha256": "02ba5a35a99f730439e4db58c04c6593ddac70ae8d965a56cb7e1515ea264c4f",
+    "changes": "byte-for-byte",
+    "copySha256": "02ba5a35a99f730439e4db58c04c6593ddac70ae8d965a56cb7e1515ea264c4f"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_8.jpg",
+    "copy": "src/old/app/assets/carousel_8.jpg",
+    "sourceSha256": "39400044f39f9b8de2a7b9484c02e799c1a7a277a5f6eabb39d2bdcfbeab1de0",
+    "changes": "byte-for-byte",
+    "copySha256": "39400044f39f9b8de2a7b9484c02e799c1a7a277a5f6eabb39d2bdcfbeab1de0"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/link.svg",
+    "copy": "src/old/app/assets/link.svg",
+    "sourceSha256": "dabc7da541e62bffc19386119bd711aae12e218192171a9affdb1ea7a4b59cc3",
+    "changes": "byte-for-byte",
+    "copySha256": "dabc7da541e62bffc19386119bd711aae12e218192171a9affdb1ea7a4b59cc3"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/edit-text.svg",
+    "copy": "src/old/app/assets/edit-text.svg",
+    "sourceSha256": "f59cc185dab7872b21a5aed401d183dd3dc86261e6081b283bf3bc86371cab0b",
+    "changes": "byte-for-byte",
+    "copySha256": "f59cc185dab7872b21a5aed401d183dd3dc86261e6081b283bf3bc86371cab0b"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogoorange-03.png",
+    "copy": "src/old/app/assets/pawprintslogoorange-03.png",
+    "sourceSha256": "a397fb62425351b9d8e4b063b823c63c311a6ffe6e600328ca2119153a326868",
+    "changes": "byte-for-byte",
+    "copySha256": "a397fb62425351b9d8e4b063b823c63c311a6ffe6e600328ca2119153a326868"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogoorange-02.png",
+    "copy": "src/old/app/assets/pawprintslogoorange-02.png",
+    "sourceSha256": "6e298cc575db179ed8ffd688bb287b66c380f26ca868f70aafc05a4603014ff8",
+    "changes": "byte-for-byte",
+    "copySha256": "6e298cc575db179ed8ffd688bb287b66c380f26ca868f70aafc05a4603014ff8"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/chat-square-quote.svg",
+    "copy": "src/old/app/assets/chat-square-quote.svg",
+    "sourceSha256": "11c47cee8f35dd975c46c5a64c043a6ec564d60719c94781be8e2864f81a21c3",
+    "changes": "byte-for-byte",
+    "copySha256": "11c47cee8f35dd975c46c5a64c043a6ec564d60719c94781be8e2864f81a21c3"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/icon-share.png",
+    "copy": "src/old/app/assets/icon-share.png",
+    "sourceSha256": "058ff14514d9afbf40b818e2f36b54d20b079b9f374f3d2a66e5b02c1381b0a2",
+    "changes": "byte-for-byte",
+    "copySha256": "058ff14514d9afbf40b818e2f36b54d20b079b9f374f3d2a66e5b02c1381b0a2"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogowhite-03.svg",
+    "copy": "src/old/app/assets/pawprintslogowhite-03.svg",
+    "sourceSha256": "7b1abc83a25af76a3d98759a555ece256586c1f6c463bed533f5767ac91f2b4f",
+    "changes": "byte-for-byte",
+    "copySha256": "7b1abc83a25af76a3d98759a555ece256586c1f6c463bed533f5767ac91f2b4f"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/history.png",
+    "copy": "src/old/app/assets/history.png",
+    "sourceSha256": "afa4b381ff78e5a2b036ca26a44fe0ec5b293c6cebbd3998c839c112694c46f9",
+    "changes": "byte-for-byte",
+    "copySha256": "afa4b381ff78e5a2b036ca26a44fe0ec5b293c6cebbd3998c839c112694c46f9"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogowhite-02.svg",
+    "copy": "src/old/app/assets/pawprintslogowhite-02.svg",
+    "sourceSha256": "3dc8b21bfacc1090e190c7bbd6c2379dab8e41558dc07f48535f864af517e83f",
+    "changes": "byte-for-byte",
+    "copySha256": "3dc8b21bfacc1090e190c7bbd6c2379dab8e41558dc07f48535f864af517e83f"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/icon-idea.png",
+    "copy": "src/old/app/assets/icon-idea.png",
+    "sourceSha256": "325f1889da494a891cbb06ca716d24c9a53f86c38652322931d4d99d70e805e0",
+    "changes": "byte-for-byte",
+    "copySha256": "325f1889da494a891cbb06ca716d24c9a53f86c38652322931d4d99d70e805e0"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/trash.svg",
+    "copy": "src/old/app/assets/trash.svg",
+    "sourceSha256": "f98873b3700113e8cbf775d0c812d124fdf7cb06a355a82dd4206c51479f3462",
+    "changes": "byte-for-byte",
+    "copySha256": "f98873b3700113e8cbf775d0c812d124fdf7cb06a355a82dd4206c51479f3462"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_4.jpg",
+    "copy": "src/old/app/assets/carousel_4.jpg",
+    "sourceSha256": "51fc7b862d51fb401c3a0ecf4fc80a0d10f19da1faeaca76e12b213befc6339e",
+    "changes": "byte-for-byte",
+    "copySha256": "51fc7b862d51fb401c3a0ecf4fc80a0d10f19da1faeaca76e12b213befc6339e"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/text-paragraph.svg",
+    "copy": "src/old/app/assets/text-paragraph.svg",
+    "sourceSha256": "f17ec370a44aad113fe10d4e3ca707aec2314d138171bc038f7ca34ab339a8a4",
+    "changes": "byte-for-byte",
+    "copySha256": "f17ec370a44aad113fe10d4e3ca707aec2314d138171bc038f7ca34ab339a8a4"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_5.jpg",
+    "copy": "src/old/app/assets/carousel_5.jpg",
+    "sourceSha256": "4940dcbb540788f3a4d08fb20e8b2eb3b74c045c78f73d32bf28605f85f88671",
+    "changes": "byte-for-byte",
+    "copySha256": "4940dcbb540788f3a4d08fb20e8b2eb3b74c045c78f73d32bf28605f85f88671"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_7.jpg",
+    "copy": "src/old/app/assets/carousel_7.jpg",
+    "sourceSha256": "f46f416fc3fe62e9992c651d23fb5a942fe460d2f33d7d0dce65f6660593e951",
+    "changes": "byte-for-byte",
+    "copySha256": "f46f416fc3fe62e9992c651d23fb5a942fe460d2f33d7d0dce65f6660593e951"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/text-left.svg",
+    "copy": "src/old/app/assets/text-left.svg",
+    "sourceSha256": "330d4ff8db6977afefbf20a6dec368fa87b238b358a7830d1216fd43d13db45e",
+    "changes": "byte-for-byte",
+    "copySha256": "330d4ff8db6977afefbf20a6dec368fa87b238b358a7830d1216fd43d13db45e"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_6.jpg",
+    "copy": "src/old/app/assets/carousel_6.jpg",
+    "sourceSha256": "a0bfa55aadbf343b82dec3905702fbeea7c3371b8b3dc2b3727d8cfa145a96fc",
+    "changes": "byte-for-byte",
+    "copySha256": "a0bfa55aadbf343b82dec3905702fbeea7c3371b8b3dc2b3727d8cfa145a96fc"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/justify.svg",
+    "copy": "src/old/app/assets/justify.svg",
+    "sourceSha256": "f7955762329a4a7376fd4840bab992b1892857082b7804231b592bc1357252b9",
+    "changes": "byte-for-byte",
+    "copySha256": "f7955762329a4a7376fd4840bab992b1892857082b7804231b592bc1357252b9"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_2.png",
+    "copy": "src/old/app/assets/carousel_2.png",
+    "sourceSha256": "7644e10553f8ee746e5bd5e6615ef95ebf7939d72418a3f855c25a131ef6a508",
+    "changes": "byte-for-byte",
+    "copySha256": "7644e10553f8ee746e5bd5e6615ef95ebf7939d72418a3f855c25a131ef6a508"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/text-right.svg",
+    "copy": "src/old/app/assets/text-right.svg",
+    "sourceSha256": "5aaf7eb328a91a9b4122f0a6b943a7b1a00cc631743c6f6408cf3ad969f17474",
+    "changes": "byte-for-byte",
+    "copySha256": "5aaf7eb328a91a9b4122f0a6b943a7b1a00cc631743c6f6408cf3ad969f17474"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/list-ol.svg",
+    "copy": "src/old/app/assets/list-ol.svg",
+    "sourceSha256": "03c2349bccb7b03d1d3ead6ef8c7f00ea0ca1897bfa2754de972209b1217e484",
+    "changes": "byte-for-byte",
+    "copySha256": "03c2349bccb7b03d1d3ead6ef8c7f00ea0ca1897bfa2754de972209b1217e484"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_3.png",
+    "copy": "src/old/app/assets/carousel_3.png",
+    "sourceSha256": "2f71879f0c64eb1d507ed6cdd9893bf7496fb772d5a71a140471a88506c77326",
+    "changes": "byte-for-byte",
+    "copySha256": "2f71879f0c64eb1d507ed6cdd9893bf7496fb772d5a71a140471a88506c77326"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_1.png",
+    "copy": "src/old/app/assets/carousel_1.png",
+    "sourceSha256": "8f53af4737a179e4da4580da3c7fa765bfcac0daa679d16076ff443205bcfbeb",
+    "changes": "byte-for-byte",
+    "copySha256": "8f53af4737a179e4da4580da3c7fa765bfcac0daa679d16076ff443205bcfbeb"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogowhite-02.png",
+    "copy": "src/old/app/assets/pawprintslogowhite-02.png",
+    "sourceSha256": "9ff6da6d9ad2b8cbfde8233ed5306ac680d79187296aa59454b2770891165307",
+    "changes": "byte-for-byte",
+    "copySha256": "9ff6da6d9ad2b8cbfde8233ed5306ac680d79187296aa59454b2770891165307"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/type-underline.svg",
+    "copy": "src/old/app/assets/type-underline.svg",
+    "sourceSha256": "e1038bb0001fe6f8e4e7f250bd497b71df555a093a1970aa99be189a83a3089e",
+    "changes": "byte-for-byte",
+    "copySha256": "e1038bb0001fe6f8e4e7f250bd497b71df555a093a1970aa99be189a83a3089e"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/pawprintslogowhite-03.png",
+    "copy": "src/old/app/assets/pawprintslogowhite-03.png",
+    "sourceSha256": "5186d29f01671caf30721b8cd86c3e11ea7e38344e2003262f70cf31beb42b3d",
+    "changes": "byte-for-byte",
+    "copySha256": "5186d29f01671caf30721b8cd86c3e11ea7e38344e2003262f70cf31beb42b3d"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/assets/carousel_0.png",
+    "copy": "src/old/app/assets/carousel_0.png",
+    "sourceSha256": "aa08783b3cd2031d69c1cb308e301064149bccc5aa20d5e7085c9702c1bbef08",
+    "changes": "byte-for-byte",
+    "copySha256": "aa08783b3cd2031d69c1cb308e301064149bccc5aa20d5e7085c9702c1bbef08"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/create/page.css",
+    "copy": "src/old/app/create/page.css",
+    "sourceSha256": "f327a0fd17648c51dce0a1bd180c2cffa5b284c361a0ace569d1ebf7bb810b8a",
+    "changes": "byte-for-byte",
+    "copySha256": "f327a0fd17648c51dce0a1bd180c2cffa5b284c361a0ace569d1ebf7bb810b8a"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/create/PetitionForm.tsx",
+    "copy": "src/old/app/create/PetitionForm.tsx",
+    "sourceSha256": "234bcbf0cc00b0cbadf7ae7ab25f4943797616e7804446fc73a4e25b3fe68193",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "9e5a7af7ca80e5ef00e892e6f4894d04cc1990b74786b238434debc086141c99"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/create/petitionform.css",
+    "copy": "src/old/app/create/petitionform.css",
+    "sourceSha256": "d4a6d6e3e580a47edfc4ca3fc3bb0709a4d8a6fee0e3d11d1d241d2666e4a273",
+    "changes": "byte-for-byte",
+    "copySha256": "d4a6d6e3e580a47edfc4ca3fc3bb0709a4d8a6fee0e3d11d1d241d2666e4a273"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/create/page.tsx",
+    "copy": "src/old/app/create/page.tsx",
+    "sourceSha256": "f99231c44621de584afccb4e7871679392ccbf77e9e6336eecd4fe8124439c04",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "860d09ee70a8ba8a4f0b9a410a8df53cb52f61b60eb4b56b152d4335ee92ffac"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/profile/page.css",
+    "copy": "src/old/app/profile/page.css",
+    "sourceSha256": "a57ecc5cf51d56cd01504470c386f8a5056e215e2050b29d0427b071af179e61",
+    "changes": "byte-for-byte",
+    "copySha256": "a57ecc5cf51d56cd01504470c386f8a5056e215e2050b29d0427b071af179e61"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/profile/page.tsx",
+    "copy": "src/old/app/profile/page.tsx",
+    "sourceSha256": "055f0d27f587545aed8cef44276d956eec1a998b050d80be2af244680abbbe0e",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "3fc4da005a2ee7801628037d05c516c5c464ef72c3a286aa4d36148eb02bd835"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/about/page.css",
+    "copy": "src/old/app/about/page.css",
+    "sourceSha256": "34ae4e79c8d343e7ee9d2c4b005ef565c8d6795cb8dc5777d170cdcfd0ed89e8",
+    "changes": "byte-for-byte",
+    "copySha256": "34ae4e79c8d343e7ee9d2c4b005ef565c8d6795cb8dc5777d170cdcfd0ed89e8"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/about/page.tsx",
+    "copy": "src/old/app/about/page.tsx",
+    "sourceSha256": "f7aa466c4d7a0eeb848a4566f4b186999473a1e34b66692994abc25579394555",
+    "changes": "byte-for-byte",
+    "copySha256": "f7aa466c4d7a0eeb848a4566f4b186999473a1e34b66692994abc25579394555"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/committees/page.css",
+    "copy": "src/old/app/committees/page.css",
+    "sourceSha256": "f5d465adb8dcb05c332e6f5686e2929c0500214567ee1daa467445b3f406fde8",
+    "changes": "byte-for-byte",
+    "copySha256": "f5d465adb8dcb05c332e6f5686e2929c0500214567ee1daa467445b3f406fde8"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/committees/page.tsx",
+    "copy": "src/old/app/committees/page.tsx",
+    "sourceSha256": "3684c2ba9e61e9efdcc369c375b73926a579cf544732399b64f2bf499eb337df",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "e458bbacbfd2c0b523f028959cb52a42f762f1d914f33ea0b57f6674d45bbbeb"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/review/[id]/page.css",
+    "copy": "src/old/app/review/[id]/page.css",
+    "sourceSha256": "9f1f2f57afe22aad3237b3a1b7f8e61adccdd164159a89169564da5ee0820162",
+    "changes": "byte-for-byte",
+    "copySha256": "9f1f2f57afe22aad3237b3a1b7f8e61adccdd164159a89169564da5ee0820162"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/review/[id]/page.tsx",
+    "copy": "src/old/app/review/[id]/page.tsx",
+    "sourceSha256": "f055f1b2045b64c453f0e34a298872be3a3fd784736e5e69e99f5693698c765c",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "92885c0ab49f879a0f3ab66e60c711b0f3635f6a2f93f3a11f9305774673009e"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/alert-dialog.tsx",
+    "copy": "src/old/ui/alert-dialog.tsx",
+    "sourceSha256": "2ede53a17b342a8265b924563f08d352dc7358a91585b0332b3d4a055b692407",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "094cc380520e6f3e14f622acec92a8c116f4607d81290be8fbdfc35f6e79136b"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/tabs.tsx",
+    "copy": "src/old/ui/tabs.tsx",
+    "sourceSha256": "4f8c4f9669912c7b7c55997daa310dfc35018c26872fe62cc4c801d7b2f91e47",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "4583d63df84f45fe9157c8131d66abf945ecc311630297731c808d2dde3bbac4"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/card.tsx",
+    "copy": "src/old/ui/card.tsx",
+    "sourceSha256": "db58aaf118e64d23247d628d19b5e541cb997fc72ac4dc72028f38e0cfc89b26",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "463d9108b92f79ae51297f309fc3d83a8e67f7f969859d38ca0a23adea0458ae"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/popover.tsx",
+    "copy": "src/old/ui/popover.tsx",
+    "sourceSha256": "2c2df5b95da92b31cb5fd9f9963617a6f5acb1d14217ba91297860dd0e7e673e",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "9ac2e0af53d583ca08e7a22dbc2bdeea441c390c6ee821c39a5a0b767a828823"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/toaster.tsx",
+    "copy": "src/old/ui/toaster.tsx",
+    "sourceSha256": "05e5b3eb44dce90b44e42ca3b4bdc582c5f4bf1652e38237ff7276aa6bd66d8f",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "c8bc0d747e88866fcf2a7e518cf918b94ffb3a917bee843e34e690e111eb023f"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/label.tsx",
+    "copy": "src/old/ui/label.tsx",
+    "sourceSha256": "a23219dd1e38c79f8335c8e1f51d3220ee261384c80894c0d22df64fa7364cb1",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "d68a33c350220bf6e701e4ea31b25b11bf0c607a4941b3f7d16b483798ada9f3"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/accordion.tsx",
+    "copy": "src/old/ui/accordion.tsx",
+    "sourceSha256": "2315a87beb62033019ce5be84481257b13c400d1d72410ba71451c76b99edc11",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "7fc9d9188d04d6e5ad60dc1168cca2ce435bf76ffa04b81eab1c1e6540fafda9"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/select.css",
+    "copy": "src/old/ui/select.css",
+    "sourceSha256": "3f2b08d4a9696b6d4d024524ea9582613ffe3cf57a5df82ff5adb4a8865a864c",
+    "changes": "byte-for-byte",
+    "copySha256": "3f2b08d4a9696b6d4d024524ea9582613ffe3cf57a5df82ff5adb4a8865a864c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/command.tsx",
+    "copy": "src/old/ui/command.tsx",
+    "sourceSha256": "a19d8fdb1d4a6c02c071e1f35afab99b2e759c5cd04ded8c2bfd6ad84dfb8962",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "e21035a3dc4ebfe8eae4aa5014134e6fe3774f88837decdce912c29a6ba0e746"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/dialog.tsx",
+    "copy": "src/old/ui/dialog.tsx",
+    "sourceSha256": "03669745940c0aba4b38d2fa57e4502e933b3e9b38ee985d1171689bd26e5254",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "31c5d519efbf03b0c4f46919d83b53893ca59fd0b8c5bcfb09bc0c686ff5ccbd"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/badge.tsx",
+    "copy": "src/old/ui/badge.tsx",
+    "sourceSha256": "db977d821af56ae3fb7952182d9c0a076a10c75c38bc2d2b000827e720423d32",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "9d029ee85128aef5fd7de0ade1d26a963735564cc7113da9e824599d74e6ca85"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/table.tsx",
+    "copy": "src/old/ui/table.tsx",
+    "sourceSha256": "1da243956282c040db49d5718d2f0093a705fbbdfa3a25f51c1a31a069c45093",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "3aefa050aab0371eff9f9e910de9dec93d21abb13bccaf9a46925fe041bfde96"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/button.tsx",
+    "copy": "src/old/ui/button.tsx",
+    "sourceSha256": "1e37e674de915977240f575e0a1dc4c209329d438fdac940855a33e8d7898c6d",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "7dadc46389bc509933249bc4d967e5bf7213bd74a4c9d38069d7ab8c5a0ff521"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/toast.tsx",
+    "copy": "src/old/ui/toast.tsx",
+    "sourceSha256": "8b7d4ba7fb916bb9b2290ee191bb46b2e2efe263467c16989175eaeec3dd0a16",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "dbbddee026ad1f3b2461e7eafe63bc3a754bc8b77c2350dba087ab6c0427973e"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/checkbox.tsx",
+    "copy": "src/old/ui/checkbox.tsx",
+    "sourceSha256": "5871e0fcea1a35aa9be9a11fc469184cbb8346b1d4bd7703bb720d436c91b744",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "014253310ffd841768c91c8813983778f1c0b03a7205654dff9bdf0f651212ca"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/dropdown-menu.tsx",
+    "copy": "src/old/ui/dropdown-menu.tsx",
+    "sourceSha256": "d735ab9c4f2d438ef0ebb20954fd22a04d86d40c83ca61aa4f706a5628b7d592",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "9f9bf4d43c779a2858f420e68574390bf19084b284ed7397887efaa9551c343f"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/select.tsx",
+    "copy": "src/old/ui/select.tsx",
+    "sourceSha256": "ffef5b082751e2306fdad6a796af6a95b72daf61c48b4a9cb38f626253c9ce6c",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "5ccde453f0093052bf26bdff8c18cba47e265fac43d7240038a98b200f8208e9"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/textarea.tsx",
+    "copy": "src/old/ui/textarea.tsx",
+    "sourceSha256": "d31ede1ec49e1b818eac6d23a9bd37b1992fb9b85824a56db46f07d810b455b2",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "b8f1385038a29bb9394432819af57a94aee764e70c4aea2816e896d83f3a8dd0"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/input.tsx",
+    "copy": "src/old/ui/input.tsx",
+    "sourceSha256": "1d0f2794f53cbbf64d162e3ceed55db84b2d07bd25621e58a95b139e19577159",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "9265f5f28a68116fd49c75935d5236836de25ae27091e3b8ec1ab9a4a283da07"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/skeleton.tsx",
+    "copy": "src/old/ui/skeleton.tsx",
+    "sourceSha256": "a72a9d8fc1c1999b5411a33391c5e70048863c5865629077280e943ca85689a8",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "d2f6ef725c4224d39075cfb172c97d4ef7dec0594d99d9d2d90fb9ce45332b40"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/components/ui/form.tsx",
+    "copy": "src/old/ui/form.tsx",
+    "sourceSha256": "9a0acdbdf33f9ed3c450bba8e52ddd6e379f4c8b9881b95839bb62b2d0a83879",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "12a9127f32c9e511ab48ac1ca85fce10bdf089cbec6ae06c0c74080f524ecfc7"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/hooks/use-toast.ts",
+    "copy": "src/old/hooks/use-toast.ts",
+    "sourceSha256": "6a44e0ab68880ade079fe92a45e0539ab0e616a14ca0ebc1a9f31a6dbc033b91",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "872967497645a2b048a98d7ee50f6ad2bfdbc186a82930a3036e142509b4823a"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/lib/petitionSort.ts",
+    "copy": "src/old/lib/petitionSort.ts",
+    "sourceSha256": "33a95f45fd242da3ec01ee030f318a6200d86149afb11ef377811318dc856c10",
+    "changes": "byte-for-byte",
+    "copySha256": "33a95f45fd242da3ec01ee030f318a6200d86149afb11ef377811318dc856c10"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/lib/utils.ts",
+    "copy": "src/old/lib/utils.ts",
+    "sourceSha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+    "changes": "byte-for-byte",
+    "copySha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/types/Role.ts",
+    "copy": "src/old/types/Role.ts",
+    "sourceSha256": "ef0aee5149b8bdf4b35914bcab534bd75d9ad64c0f9e5997fa8c80eed44f7c7a",
+    "changes": "byte-for-byte",
+    "copySha256": "ef0aee5149b8bdf4b35914bcab534bd75d9ad64c0f9e5997fa8c80eed44f7c7a"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/types/Author.ts",
+    "copy": "src/old/types/Author.ts",
+    "sourceSha256": "8418e1e006f33f8c7823fc5e4b4e06bf4ef71ecc1915b524923c06b9b1f72cf3",
+    "changes": "byte-for-byte",
+    "copySha256": "8418e1e006f33f8c7823fc5e4b4e06bf4ef71ecc1915b524923c06b9b1f72cf3"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/types/Permission.ts",
+    "copy": "src/old/types/Permission.ts",
+    "sourceSha256": "f46477de1cd7487c9bbc562599c2582be8d461c4b9a3861410d2b876124c4980",
+    "changes": "byte-for-byte",
+    "copySha256": "f46477de1cd7487c9bbc562599c2582be8d461c4b9a3861410d2b876124c4980"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/types/UserProfile.ts",
+    "copy": "src/old/types/UserProfile.ts",
+    "sourceSha256": "2275e276ae9aeab7f7903e6dc8b2836dee72116b3c857d43d28dbea35bb3f68c",
+    "changes": "byte-for-byte",
+    "copySha256": "2275e276ae9aeab7f7903e6dc8b2836dee72116b3c857d43d28dbea35bb3f68c"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/types/Committee.ts",
+    "copy": "src/old/types/Committee.ts",
+    "sourceSha256": "ad6c4b3b97c929c4eb336d62b87d8b7b10a4a5d268a64b377fb5f6fc72ccee6a",
+    "changes": "byte-for-byte",
+    "copySha256": "ad6c4b3b97c929c4eb336d62b87d8b7b10a4a5d268a64b377fb5f6fc72ccee6a"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/page.tsx",
+    "copy": "src/old/app/page.tsx",
+    "sourceSha256": "cdd465685c5c447e951f0d7b9b9fd917f8ef71c7a18728285e3ca49f122d1747",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "2afb153b5b1aead0ee784a43df63a1543d51e976e9bab482a70183fcbfd7222f"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/page.css",
+    "copy": "src/old/app/page.css",
+    "sourceSha256": "6bea50e66013c8164c265fc5ee058bcc903e81720c594780f8258082ca322b31",
+    "changes": "byte-for-byte",
+    "copySha256": "6bea50e66013c8164c265fc5ee058bcc903e81720c594780f8258082ca322b31"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/globals.css",
+    "copy": "src/old/app/globals.css",
+    "sourceSha256": "a373bcb6574496cc0c49f07266816ca4472bcd9568770f8a0b76efd1fef35fa5",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "99d5f028aeace2fdeacc44e2b7b40195e78fbcbb707d0fedba58b03cab64009b"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/not-found.tsx",
+    "copy": "src/old/app/not-found.tsx",
+    "sourceSha256": "dd7eee977e03e84ee36705dc02adcd5e66504856d097e883c16485550eb9c854",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "580124b296fd55c98c1be08a4e6909add8c4980b018261eec110bfda86980abc"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/src/app/forbidden.tsx",
+    "copy": "src/old/app/forbidden.tsx",
+    "sourceSha256": "f53a690829852afb6623cfa531e5025914642163f4747e34b7db3abbbec6136f",
+    "changes": "route/import, local-data, or toolchain compatibility integration; see README.md",
+    "copySha256": "8efa08e0c6360129d5fc43dc316b16b7bad8cf8835ac40f63922ce5f3239ce53"
+  },
+  {
+    "source": "../pawprints2/pawprints-frontend/.next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2",
+    "copy": "src/old/fonts/inter-latin.woff2",
+    "sourceSha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+    "changes": "byte-for-byte",
+    "copySha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4"
+  }
+]

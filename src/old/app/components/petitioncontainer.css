@@ -1,0 +1,74 @@
+.petition-sort {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.5em;
+  margin: 1em;
+}
+
+.petition-sort-select {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.petition-sort-select > svg {
+  position: absolute;
+  top: 50%;
+  right: 0.875rem;
+  transform: translateY(-50%);
+  color: var(--highlight);
+  pointer-events: none;
+}
+
+.petition-sort select {
+  width: 100%;
+  appearance: none;
+  padding: 0.5em 2.625rem 0.5em 0.875rem;
+  border: 2px solid var(--main_color);
+  border-radius: 0;
+  color: var(--main_color);
+  background-color: var(--light_background);
+  font: inherit;
+}
+
+.petition-sort select:focus-visible {
+  outline: 2px solid var(--main_color);
+  outline-offset: 2px;
+}
+
+.petition-sort select:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}
+
+.petition-sort select:disabled + svg {
+  opacity: 0.6;
+}
+
+.petitions-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1em;
+  width: calc(100% - 2em);
+  max-width: 100%;
+  margin: 1em auto;
+  margin-top: 2em;
+  overflow: visible;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1200px) {
+  .petitions-container {
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 280px) {
+  .petitions-container {
+    grid-template-columns: 1fr;
+    max-width: 280px;
+  }
+}
