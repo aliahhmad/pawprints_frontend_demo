@@ -2,7 +2,6 @@
 
 import { useEffect, useRef } from "react";
 import Icon from "@/components/icon";
-import { DesignSwitch } from "@/components/design-provider";
 
 export default function Modal({
   titleId,
@@ -65,7 +64,6 @@ export default function Modal({
         <Icon name="close" size={21} />
       </button>
       {children}
-      <DesignSwitch inDialog />
     </dialog>
   );
 }

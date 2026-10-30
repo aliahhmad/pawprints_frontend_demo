@@ -10,6 +10,5 @@ body { padding-bottom: 96px; }
 .design-switch button[aria-pressed=true] { color: #fff; background: #252b2a; }
 .design-switch button:focus-visible { outline: 3px solid #f76902; outline-offset: 2px; }
 body:has(dialog[open]) .site-design-switch { visibility: hidden; }
-.app-dialog { padding-bottom: 80px; }
 .notice-trigger { bottom: 100px; }
 @media(max-width:380px) { .design-switch-label {display:none} .design-switch button {padding-inline:15px} }
